@@ -1,0 +1,18 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main(args: Array<String>) {
+        TODO()
+    }
+  learner_created: false
+- name: src/Main.jar
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/10493#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 20 May 2021 14:15:36 UTC
+record: -1

@@ -1,0 +1,40 @@
+# Project exclude paths
+/.gradle/
+/Simple Version Control System/task/build/
+/Simple Version Control System/task/out/
+/Simple Version Control System/task/out/production/classes/
+/Simple Version Control System/task/out/test/classes/
+/Topics/Functions as objects/Continuation-Passing Style/out/
+/Topics/Functions as objects/Continuation-Passing Style/out/production/classes/
+/Topics/Functions as objects/First predicate/out/
+/Topics/Functions as objects/First predicate/out/production/classes/
+/Topics/Functions as objects/Function composition/out/
+/Topics/Functions as objects/Function composition/out/production/classes/
+/Topics/Functions as objects/Function generator/out/
+/Topics/Functions as objects/Function generator/out/production/classes/
+/Topics/Functions as objects/Theory/out/
+/Topics/Functions as objects/Theory/out/production/classes/
+/Topics/Lambda expressions/Function composition/out/
+/Topics/Lambda expressions/Function composition/out/production/classes/
+/Topics/Lambda expressions/Max/out/
+/Topics/Lambda expressions/Max/out/production/classes/
+/Topics/Lambda expressions/Polynomial/out/
+/Topics/Lambda expressions/Polynomial/out/production/classes/
+/Topics/Lambda expressions/Range multiplication/out/
+/Topics/Lambda expressions/Range multiplication/out/production/classes/
+/Topics/Lambda expressions/Theory/out/
+/Topics/Lambda expressions/Theory/out/production/classes/
+/Topics/The main() function/Change program arguments/out/
+/Topics/The main() function/Change program arguments/out/production/classes/
+/Topics/The main() function/Fix the program/out/
+/Topics/The main() function/Fix the program/out/production/classes/
+/Topics/The main() function/Printing arguments/out/
+/Topics/The main() function/Printing arguments/out/production/classes/
+/Topics/The main() function/Theory/out/
+/Topics/The main() function/Theory/out/production/classes/
+/Topics/Writing files/Closed case/out/
+/Topics/Writing files/Closed case/out/production/classes/
+/Topics/Writing files/Duplication/out/
+/Topics/Writing files/Duplication/out/production/classes/
+/Topics/Writing files/Theory/out/
+/Topics/Writing files/Theory/out/production/classes/
